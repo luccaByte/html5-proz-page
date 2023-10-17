@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Marven Pro', sans-serif;
+}
+
+header {
+    background-color: lightgrey;
+    display: flex;
+    justify-content: space-between;
+}
